@@ -20,7 +20,7 @@ An interactive quantitative finance dashboard built with Python and Streamlit. P
 
 ```bash
 # 1. Clone
-git clone https://github.com/YOUR_USERNAME/quant-dashboard.git
+git clone https://github.com/KrishKalsi/quant_portfolio_dashboard.git
 cd quant-dashboard
 
 # 2. Install dependencies
